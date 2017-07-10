@@ -1,0 +1,6 @@
+ {
+   "id": "vimeo-id",
+   "fieldTypes":["Symbol"],
+   "name":"Vimeo ID",
+   "srcdoc":"./dist/index.html"
+ } 
