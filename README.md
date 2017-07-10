@@ -1,7 +1,7 @@
 Vimeo ID
 --------------
 
-![vimeo-id](https://github.com/daliborgogic/contentful-widget-vimeo-id/assets/youtube-id.png)
+![vimeo-id](https://raw.githubusercontent.com/daliborgogic/contentful-widget-vimeo-id/master/assets/preview.png)
 
 This extension extracts the video ID from a Vimeo URI.
 
